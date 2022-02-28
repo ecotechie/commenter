@@ -6,7 +6,7 @@
  * @since 0.1.0
  */
 
-namespace EcoTechie\Commenter;
+namespace EcoTechie\Commenter\Admin;
 
 defined( 'ABSPATH' ) || die( 'These are not the files you are looking for...' );
 

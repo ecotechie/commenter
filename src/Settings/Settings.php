@@ -1,6 +1,6 @@
 <?php
 
-namespace EcoTechie\Commenter;
+namespace EcoTechie\Commenter\Settings;
 
 use EcoTechie\Commenter\Assets\AssetsAware;
 use EcoTechie\Commenter\Assets\AssetsAwareness;
